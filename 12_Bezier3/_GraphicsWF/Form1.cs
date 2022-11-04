@@ -28,6 +28,7 @@ namespace _GraphicsWF
 
         int found = -1;
         int radius = 5;
+        int num;
 
         public Form1()
         {
@@ -57,9 +58,25 @@ namespace _GraphicsWF
 
             if (P.Count >= 4)
             {
+                double incR, incG, incB;
+
+                color1 = (Color)comboBox1.SelectedItem;
+                color2 = (Color)comboBox2.SelectedItem;
+
+                num = (P.Count - 1) / 3;
+
+                incR = (color2.R - color1.R) / num;
+                incG = (color2.G - color1.G) / num;
+                incB = (color2.B - color1.B) / num;
+
+
                 for (int i = 0; i < P.Count - 3; i = i + 3)
                 {
+                    color2 = Color.FromArgb((int)(color1.R + incR), (int)(color1.G+incG), (int)(color1.B+incB));
+
                     g.DrawBezier3K(color1, color2, new Bezier3KCurve(P[i], P[i + 1], P[i + 2], P[i + 3], k));
+
+                    color1 = color2;
                 }
                 if ((P.Count - 1) % 3 == 0)
                 {
@@ -186,6 +203,8 @@ namespace _GraphicsWF
             k = 3;
             trackBar1.Value = (int)k;
             label1.Text = k.ToString();
+            color1 = (Color)comboBox1.SelectedItem;
+            color2 = (Color)comboBox2.SelectedItem;
             canvas.Invalidate();
         }
 

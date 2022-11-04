@@ -13,3 +13,9 @@ C:\Users\intel\Downloads\BevGraf_gyak\_GraphicsDLL\_GraphicsDLL\obj\Debug\_Graph
 C:\Users\intel\Downloads\BevGraf_gyak\_GraphicsDLL\_GraphicsDLL\obj\Debug\_GraphicsDLL.csproj.CoreCompileInputs.cache
 C:\Users\intel\Downloads\BevGraf_gyak\_GraphicsDLL\_GraphicsDLL\obj\Debug\_GraphicsDLL.dll
 C:\Users\intel\Downloads\BevGraf_gyak\_GraphicsDLL\_GraphicsDLL\obj\Debug\_GraphicsDLL.pdb
+D:\GIT\bevgraf2\_GraphicsDLL\_GraphicsDLL\bin\Debug\_GraphicsDLL.dll
+D:\GIT\bevgraf2\_GraphicsDLL\_GraphicsDLL\bin\Debug\_GraphicsDLL.pdb
+D:\GIT\bevgraf2\_GraphicsDLL\_GraphicsDLL\obj\Debug\_GraphicsDLL.csproj.AssemblyReference.cache
+D:\GIT\bevgraf2\_GraphicsDLL\_GraphicsDLL\obj\Debug\_GraphicsDLL.csproj.CoreCompileInputs.cache
+D:\GIT\bevgraf2\_GraphicsDLL\_GraphicsDLL\obj\Debug\_GraphicsDLL.dll
+D:\GIT\bevgraf2\_GraphicsDLL\_GraphicsDLL\obj\Debug\_GraphicsDLL.pdb

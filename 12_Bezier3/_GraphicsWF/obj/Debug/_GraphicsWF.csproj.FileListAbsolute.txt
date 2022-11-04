@@ -34,3 +34,17 @@ C:\Users\intel\Downloads\BevGraf_gyak\12_Bezier3\_GraphicsWF\obj\Debug\_Graphics
 C:\Users\intel\Downloads\BevGraf_gyak\12_Bezier3\_GraphicsWF\obj\Debug\_GraphicsWF.csproj.CopyComplete
 C:\Users\intel\Downloads\BevGraf_gyak\12_Bezier3\_GraphicsWF\obj\Debug\_GraphicsWF.exe
 C:\Users\intel\Downloads\BevGraf_gyak\12_Bezier3\_GraphicsWF\obj\Debug\_GraphicsWF.pdb
+D:\GIT\bevgraf2\12_Bezier3\_GraphicsWF\bin\Debug\_GraphicsWF.exe.config
+D:\GIT\bevgraf2\12_Bezier3\_GraphicsWF\bin\Debug\_GraphicsWF.exe
+D:\GIT\bevgraf2\12_Bezier3\_GraphicsWF\bin\Debug\_GraphicsWF.pdb
+D:\GIT\bevgraf2\12_Bezier3\_GraphicsWF\bin\Debug\_GraphicsDLL.dll
+D:\GIT\bevgraf2\12_Bezier3\_GraphicsWF\bin\Debug\_GraphicsDLL.pdb
+D:\GIT\bevgraf2\12_Bezier3\_GraphicsWF\obj\Debug\_GraphicsWF.csproj.AssemblyReference.cache
+D:\GIT\bevgraf2\12_Bezier3\_GraphicsWF\obj\Debug\_GraphicsWF.csproj.SuggestedBindingRedirects.cache
+D:\GIT\bevgraf2\12_Bezier3\_GraphicsWF\obj\Debug\_GraphicsWF.Form1.resources
+D:\GIT\bevgraf2\12_Bezier3\_GraphicsWF\obj\Debug\_GraphicsWF.Properties.Resources.resources
+D:\GIT\bevgraf2\12_Bezier3\_GraphicsWF\obj\Debug\_GraphicsWF.csproj.GenerateResource.cache
+D:\GIT\bevgraf2\12_Bezier3\_GraphicsWF\obj\Debug\_GraphicsWF.csproj.CoreCompileInputs.cache
+D:\GIT\bevgraf2\12_Bezier3\_GraphicsWF\obj\Debug\_GraphicsWF.csproj.CopyComplete
+D:\GIT\bevgraf2\12_Bezier3\_GraphicsWF\obj\Debug\_GraphicsWF.exe
+D:\GIT\bevgraf2\12_Bezier3\_GraphicsWF\obj\Debug\_GraphicsWF.pdb

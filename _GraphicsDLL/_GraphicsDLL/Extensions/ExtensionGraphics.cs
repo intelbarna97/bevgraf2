@@ -249,7 +249,6 @@ namespace _GraphicsDLL
 
             double t = a;
             double h = (b - a) / n;
-            double half = a + (b - a) / 2;
             PointF p0 = new PointF((float)(scale * X(t) + cX),
                                    (float)(scale * Y(t) + cY));
             while (t < b)
@@ -260,18 +259,9 @@ namespace _GraphicsDLL
                 Pen pen = new Pen(Color.FromArgb((int)red, (int)green, (int)blue), 4.0f);
                 g.DrawLine(pen, p0, p1);
                 p0 = p1;
-                if(t<half)
-                {
-                    red += incR*2;
-                    green += incG*2;
-                    blue += incB*2;
-                }
-                else if(t<b-h)
-                {
-                    red -= incR * 2;
-                    green -= incG * 2;
-                    blue -= incB * 2;
-                }
+                    red += incR;
+                    green += incG;
+                    blue += incB;
             }
         }
         #endregion
